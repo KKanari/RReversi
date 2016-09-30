@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+    <LinearLayout android:id="@+id/line01" android:layout_width="320px" android:layout_height="40px"
+		android:layout_gravity="center"
+		android:orientation="horizontal">
+		<ImageButton android:id="@+id/imageButton11" android:layout_width="40px" android:layout_height="40px"
+			android:background="@drawable/block">
+		</ImageButton>
+		<ImageButton android:id="@+id/imageButton12" android:layout_width="40px" android:layout_height="40px"
+			android:background="@drawable/block">
+		</ImageButton>
+		<ImageButton android:id="@+id/imageButton13" android:layout_width="40px" android:layout_height="40px"
+			android:background="@drawable/block">
+		</ImageButton>
+		<ImageButton android:id="@+id/imageButton14" android:layout_width="40px" android:layout_height="40px"
+			android:background="@drawable/block">
+		</ImageButton>
+		<ImageButton android:id="@+id/imageButton15" android:layout_width="40px" android:layout_height="40px"
+			android:background="@drawable/block">
+		</ImageButton>
+		<ImageButton android:id="@+id/imageButton16" android:layout_width="40px" android:layout_height="40px"
+			android:background="@drawable/block">
+		</ImageButton>
+		<ImageButton android:id="@+id/imageButton17" android:layout_width="40px" android:layout_height="40px"
+			android:background="@drawable/block">
+		</ImageButton>
+		<ImageButton android:id="@+id/imageButton18" android:layout_width="40px" android:layout_height="40px"
+			android:background="@drawable/block">
+		</ImageButton>
+	</LinearLayout>
+    <LinearLayout android:id="@+id/line02" android:layout_width="320px" android:layout_height="40px"
+		android:layout_gravity="center"
+		android:orientation="horizontal">
+		<ImageButton android:id="@+id/imageButton21" android:layout_width="40px" android:layout_height="40px"
+			android:background="@drawable/block">
+		</ImageButton>
+		<ImageButton android:id="@+id/imageButton22" android:layout_width="40px" android:layout_height="40px"
+			android:background="@drawable/block">
+		</ImageButton>
+		<ImageButton android:id="@+id/imageButton23" android:layout_width="40px" android:layout_height="40px"
+			android:background="@drawable/block">
+		</ImageButton>
+		<ImageButton android:id="@+id/imageButton24" android:layout_width="40px" android:layout_height="40px"
+			android:background="@drawable/block_black">
+		</ImageButton>
+		<ImageButton android:id="@+id/imageButton25" android:layout_width="40px" android:layout_height="40px"
+			android:background="@drawable/block_black">
+		</ImageButton>
+		<ImageButton android:id="@+id/imageButton26" android:layout_width="40px" android:layout_height="40px"
+			android:background="@drawable/block_black">
+		</ImageButton>
+		<ImageButton android:id="@+id/imageButton27" android:layout_width="40px" android:layout_height="40px"
+			android:background="@drawable/block">
+		</ImageButton>
+		<ImageButton android:id="@+id/imageButton28" android:layout_width="40px" android:layout_height="40px"
+			android:background="@drawable/block">
+		</ImageButton>
+	</LinearLayout>
+    <LinearLayout android:id="@+id/line03"  android:layout_width="320px" android:layout_height="40px"
+		android:layout_gravity="center"
+		android:orientation="horizontal">
+		<ImageButton android:id="@+id/imageButton31" android:layout_width="40px" android:layout_height="40px"
+			android:background="@drawable/block">
+		</ImageButton>
+		<ImageButton android:id="@+id/imageButton32" android:layout_width="40px" android:layout_height="40px"
+			android:background="@drawable/block">
+		</ImageButton>
+		<ImageButton android:id="@+id/imageButton33" android:layout_width="40px" android:layout_height="40px"
+			android:background="@drawable/block">
+		</ImageButton>
+		<ImageButton android:id="@+id/imageButton34" android:layout_width="40px" android:layout_height="40px"
+			android:background="@drawable/block_black">
+		</ImageButton>
+		<ImageButton android:id="@+id/imageButton35" android:layout_width="40px" android:layout_height="40px"
+			android:background="@drawable/block_white">
+		</ImageButton>
+		<ImageButton android:id="@+id/imageButton36" android:layout_width="40px" android:layout_height="40px"
+			android:background="@drawable/block_black">
+		</ImageButton>
+		<ImageButton android:id="@+id/imageButton37" android:layout_width="40px" android:layout_height="40px"
+			android:background="@drawable/block">
+		</ImageButton>
+		<ImageButton android:id="@+id/imageButton38" android:layout_width="40px" android:layout_height="40px"
+			android:background="@drawable/block">
+		</ImageButton>
+	</LinearLayout>
+    <LinearLayout android:id="@+id/line04"  android:layout_width="320px" android:layout_height="40px"
+		android:layout_gravity="center"
+		android:orientation="horizontal">
+		<ImageButton android:id="@+id/imageButton41" android:layout_width="40px" android:layout_height="40px"
+			android:background="@drawable/block">
+		</ImageButton>
+		<ImageButton android:id="@+id/imageButton42" android:layout_width="40px" android:layout_height="40px"
+			android:background="@drawable/block">
+		</ImageButton>
+		<ImageButton android:id="@+id/imageButton43" android:layout_width="40px" android:layout_height="40px"
+			android:background="@drawable/block_black">
+		</ImageButton>
+		<ImageButton android:id="@+id/imageButton44" android:layout_width="40px" android:layout_height="40px"
+			android:background="@drawable/block_black">
+		</ImageButton>
+		<ImageButton android:id="@+id/imageButton45" android:layout_width="40px" android:layout_height="40px"
+			android:background="@drawable/block_white">
+		</ImageButton>
+		<ImageButton android:id="@+id/imageButton46" android:layout_width="40px" android:layout_height="40px"
+			android:background="@drawable/block_black">
+		</ImageButton>
+		<ImageButton android:id="@+id/imageButton47" android:layout_width="40px" android:layout_height="40px"
+			android:background="@drawable/block_black">
+		</ImageButton>
+		<ImageButton android:id="@+id/imageButton48" android:layout_width="40px" android:layout_height="40px"
+			android:background="@drawable/block">
+		</ImageButton>
+	</LinearLayout>
+    <LinearLayout android:id="@+id/line05"  android:layout_width="320px" android:layout_height="40px"
+		android:layout_gravity="center"
+		android:orientation="horizontal">
+		<ImageButton android:id="@+id/imageButton51" android:layout_width="40px" android:layout_height="40px"
+			android:background="@drawable/block">
+		</ImageButton>
+		<ImageButton android:id="@+id/imageButton52" android:layout_width="40px" android:layout_height="40px"
+			android:background="@drawable/block">
+		</ImageButton>
+		<ImageButton android:id="@+id/imageButton53" android:layout_width="40px" android:layout_height="40px"
+			android:background="@drawable/block_black">
+		</ImageButton>
+		<ImageButton android:id="@+id/imageButton54" android:layout_width="40px" android:layout_height="40px"
+			android:background="@drawable/block_white">
+		</ImageButton>
+		<ImageButton android:id="@+id/imageButton55" android:layout_width="40px" android:layout_height="40px"
+			android:background="@drawable/block_white">
+		</ImageButton>
+		<ImageButton android:id="@+id/imageButton56" android:layout_width="40px" android:layout_height="40px"
+			android:background="@drawable/block_white">
+		</ImageButton>
+		<ImageButton android:id="@+id/imageButton57" android:layout_width="40px" android:layout_height="40px"
+			android:background="@drawable/block_black">
+		</ImageButton>
+		<ImageButton android:id="@+id/imageButton58" android:layout_width="40px" android:layout_height="40px"
+			android:background="@drawable/block_black">
+		</ImageButton>
+	</LinearLayout>
+    <LinearLayout android:id="@+id/line06"  android:layout_width="320px" android:layout_height="40px"
+		android:layout_gravity="center"
+		android:orientation="horizontal">
+		<ImageButton android:id="@+id/imageButton61" android:layout_width="40px" android:layout_height="40px"
+			android:background="@drawable/block">
+		</ImageButton>
+		<ImageButton android:id="@+id/imageButton62" android:layout_width="40px" android:layout_height="40px"
+			android:background="@drawable/block">
+		</ImageButton>
+		<ImageButton android:id="@+id/imageButton63" android:layout_width="40px" android:layout_height="40px"
+			android:background="@drawable/block_black">
+		</ImageButton>
+		<ImageButton android:id="@+id/imageButton64" android:layout_width="40px" android:layout_height="40px"
+			android:background="@drawable/block_black">
+		</ImageButton>
+		<ImageButton android:id="@+id/imageButton65" android:layout_width="40px" android:layout_height="40px"
+			android:background="@drawable/block_black">
+		</ImageButton>
+		<ImageButton android:id="@+id/imageButton66" android:layout_width="40px" android:layout_height="40px"
+			android:background="@drawable/block_black">
+		</ImageButton>
+		<ImageButton android:id="@+id/imageButton67" android:layout_width="40px" android:layout_height="40px"
+			android:background="@drawable/block_black">
+		</ImageButton>
+		<ImageButton android:id="@+id/imageButton68" android:layout_width="40px" android:layout_height="40px"
+			android:background="@drawable/block">
+		</ImageButton>
+	</LinearLayout>
+	<LinearLayout android:id="@+id/line07"  android:layout_width="320px" android:layout_height="40px"
+		android:layout_gravity="center"
+		android:orientation="horizontal">
+		<ImageButton android:id="@+id/imageButton71" android:layout_width="40px" android:layout_height="40px"
+			android:background="@drawable/block">
+		</ImageButton>
+		<ImageButton android:id="@+id/imageButton72" android:layout_width="40px" android:layout_height="40px"
+			android:background="@drawable/block">
+		</ImageButton>
+		<ImageButton android:id="@+id/imageButton73" android:layout_width="40px" android:layout_height="40px"
+			android:background="@drawable/block">
+		</ImageButton>
+		<ImageButton android:id="@+id/imageButton74" android:layout_width="40px" android:layout_height="40px"
+			android:background="@drawable/block">
+		</ImageButton>
+		<ImageButton android:id="@+id/imageButton75" android:layout_width="40px" android:layout_height="40px"
+			android:background="@drawable/block">
+		</ImageButton>
+		<ImageButton android:id="@+id/imageButton76" android:layout_width="40px" android:layout_height="40px"
+			android:background="@drawable/block">
+		</ImageButton>
+		<ImageButton android:id="@+id/imageButton77" android:layout_width="40px" android:layout_height="40px"
+			android:background="@drawable/block">
+		</ImageButton>
+		<ImageButton android:id="@+id/imageButton78" android:layout_width="40px" android:layout_height="40px"
+			android:background="@drawable/block">
+		</ImageButton>
+	</LinearLayout>
+	<LinearLayout android:id="@+id/line08"  android:layout_width="320px" android:layout_height="40px"
+		android:layout_gravity="center"
+		android:orientation="horizontal">
+		<ImageButton android:id="@+id/imageButton81" android:layout_width="40px" android:layout_height="40px"
+			android:background="@drawable/block">
+		</ImageButton>
+		<ImageButton android:id="@+id/imageButton82" android:layout_width="40px" android:layout_height="40px"
+			android:background="@drawable/block">
+		</ImageButton>
+		<ImageButton android:id="@+id/imageButton83" android:layout_width="40px" android:layout_height="40px"
+			android:background="@drawable/block">
+		</ImageButton>
+		<ImageButton android:id="@+id/imageButton84" android:layout_width="40px" android:layout_height="40px"
+			android:background="@drawable/block">
+		</ImageButton>
+		<ImageButton android:id="@+id/imageButton85" android:layout_width="40px" android:layout_height="40px"
+			android:background="@drawable/block">
+		</ImageButton>
+		<ImageButton android:id="@+id/imageButton86" android:layout_width="40px" android:layout_height="40px"
+			android:background="@drawable/block">
+		</ImageButton>
+		<ImageButton android:id="@+id/imageButton87" android:layout_width="40px" android:layout_height="40px"
+			android:background="@drawable/block">
+		</ImageButton>
+		<ImageButton android:id="@+id/imageButton88" android:layout_width="40px" android:layout_height="40px"
+			android:background="@drawable/block">
+		</ImageButton>
+	</LinearLayout>
+	<LinearLayout android:id="@+id/line09"  android:layout_width="320px" android:layout_height="40px"
+		android:layout_gravity="center"
+		android:orientation="horizontal">
+		<ImageView android:id="@+id/imageBlackLeft" android:layout_width="40px" android:layout_height="40px"
+			android:background="@drawable/star">
+		</ImageView>
+		<ImageView android:id="@+id/imageBlackRight" android:layout_width="40px" android:layout_height="40px"
+			android:background="@drawable/star">
+		</ImageView>
+		<TextView android:text="17" android:id="@+id/textCountBlack" android:layout_width="40px" android:layout_height="40px"
+           	android:gravity="center"
+           	android:textSize="25px"
+           	android:textStyle="bold"
+           	android:textColor="#000000"
+           	android:background="@drawable/bg_green">
+		</TextView>
+		<ImageView android:id="@+id/imageStoneBlack" android:layout_width="40px" android:layout_height="40px"
+			android:background="@drawable/stone_black">
+		</ImageView>
+		<ImageView android:id="@+id/imageStoneWhite" android:layout_width="40px" android:layout_height="40px"
+			android:background="@drawable/stone_white">
+		</ImageView>
+		<TextView android:text="5" android:id="@+id/textCountWhite" android:layout_width="40px" android:layout_height="40px"
+           	android:gravity="center"
+           	android:textSize="25px"
+           	android:textStyle="bold"
+           	android:textColor="#000000"
+           	android:background="@drawable/bg_green">
+		</TextView>
+		<ImageView android:id="@+id/imageWhiteLeft" android:layout_width="40px" android:layout_height="40px"
+			android:background="@drawable/bg_green">
+		</ImageView>
+		<ImageView android:id="@+id/imageWhiteRight" android:layout_width="40px" android:layout_height="40px"
+			android:background="@drawable/bg_green">
+		</ImageView>
+	</LinearLayout>
+	<LinearLayout android:id="@+id/line10"  android:layout_width="320px" android:layout_height="40px"
+		android:layout_gravity="center">
+		<ImageView android:id="@+id/image111" android:layout_width="320px" android:layout_height="40px"
+			android:background="@drawable/bg_green">
+		</ImageView>
+	</LinearLayout>
+	<LinearLayout android:id="@+id/line11"  android:layout_width="320px" android:layout_height="40px"
+		android:layout_gravity="center">
+		<ImageView android:id="@+id/image111" android:layout_width="320px" android:layout_height="40px"
+			android:background="@drawable/bg_green">
+		</ImageView>
+	</LinearLayout>
+</LinearLayout>

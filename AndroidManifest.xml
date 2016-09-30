@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+      android:versionCode="1" android:versionName="1.0.0" package="jp.co.RReversi">
+    <application
+    	android:icon="@drawable/icon"
+		android:label="@string/app_name" android:debuggable="true">
+        <activity android:name=".Reversi"
+                  android:label="@string/app_name"
+                  android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".ReversiRecord"
+        			android:screenOrientation="portrait">
+        </activity>
+        <activity android:name=".ReversiOption"
+        			android:screenOrientation="portrait">
+        </activity>
+         <activity android:name=".CustomDialogActivity"
+        			android:label="@string/text_pass"
+        			android:theme="@style/Theme.CustomDialog"
+        			android:screenOrientation="portrait">
+        </activity>
+    </application>
+    <uses-sdk android:minSdkVersion="4" />
+</manifest> 

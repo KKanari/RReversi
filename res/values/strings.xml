@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- アプリケーション名  -->
+    <string name="app_name">RReversi</string>
+    <!-- タイトルバー  -->
+    <string name="custom_title_left">New</string>
+    <string name="custom_title_right">New</string>
+    <!-- メイン画面  -->
+    <string name="menu_new">New</string>
+    <string name="menu_record">Record</string>
+    <string name="menu_option">Option</string>
+    <!-- オプション画面  -->
+    <string name="label_vs_mode">vs Mode</string>
+    <string name="label_stone">Stone</string>
+    <string name="button_android">Android</string>
+    <string name="button_person">Person</string>
+    <!-- 成績画面  -->
+    <string name="label_vs_android">vs Android</string>
+    <string name="label_vs_person">vs Person</string>
+    <string name="label_total">Total</string>
+    <string name="label_win">Win</string>
+    <string name="label_lose">Lose</string>
+    <string name="label_draw">Draw</string>
+    <string name="button_back">Back</string>
+    <!-- カスタムダイアログ -->
+    <string name="text_pass">Pass</string>
+    <!-- DB -->
+    <string name="name_db">riversiDB</string>
+    
+</resources>

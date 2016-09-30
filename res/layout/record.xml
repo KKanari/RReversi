@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_width="wrap_content"
+  android:layout_height="wrap_content"
+  android:orientation="vertical"
+  android:background="@drawable/bg_option">
+<!-- vs Android 実績タイトル -->
+  <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="310px"
+            android:layout_height="40px"
+            android:layout_gravity="center">
+			<TextView android:id="@+id/textVsAndroid"
+            	android:text="@string/label_vs_android"
+            	android:layout_width="120px" android:layout_height="40px"
+            	android:gravity="center"
+            	android:textSize="20px"
+            	android:textStyle="bold"
+            	android:textColor="#000000"
+            />
+	</LinearLayout>
+	<LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="320px"
+            android:layout_height="40px"
+            android:layout_gravity="center">
+            <TextView android:id="@+id/textTotal"
+            	android:text="@string/label_total"
+            	android:layout_width="80px" android:layout_height="40px"
+            	android:gravity="center"
+            	android:textSize="15px"
+            	android:textStyle="bold"
+            	android:textColor="#800000"
+            />
+             <TextView android:id="@+id/textWin"
+            	android:text="@string/label_win"
+            	android:layout_width="80px" android:layout_height="40px"
+            	android:gravity="center"
+            	android:textSize="15px"
+            	android:textStyle="bold"
+            	android:textColor="#FF0000"
+            />
+             <TextView android:id="@+id/textLose"
+            	android:text="@string/label_lose"
+            	android:layout_width="80px"
+            	android:layout_height="40px"
+            	android:gravity="center"
+            	android:textSize="15px"
+            	android:textStyle="bold"
+            	android:textColor="#0000FF"
+            />
+             <TextView android:id="@+id/textDraw"
+            	android:text="@string/label_draw"
+            	android:layout_width="80px"
+            	android:layout_height="40px"
+            	android:gravity="center"
+            	android:textSize="15px"
+            	android:textStyle="bold"
+            	android:textColor="#FFFF00"
+            />
+	</LinearLayout>
+<!-- vs Androidの実績 -->
+	<LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="320px"
+            android:layout_height="40px"
+            android:layout_gravity="center">
+            <TextView android:id="@+id/textTotalAndroid"
+            	android:text="0"
+            	android:layout_width="80px" android:layout_height="40px"
+            	android:gravity="center"
+            	android:textSize="15px"
+            	android:textStyle="bold"
+            	android:textColor="#800000"
+            />
+             <TextView android:id="@+id/textWinAndroid"
+            	android:text="0"
+            	android:layout_width="80px" android:layout_height="40px"
+            	android:gravity="center"
+            	android:textSize="15px"
+            	android:textStyle="bold"
+            	android:textColor="#FF0000"
+            />
+             <TextView android:id="@+id/textLoseAndroid"
+            	android:text="0"
+            	android:layout_width="80px"
+            	android:layout_height="40px"
+            	android:gravity="center"
+            	android:textSize="15px"
+            	android:textStyle="bold"
+            	android:textColor="#0000FF"
+            />
+             <TextView android:id="@+id/textDrawAndroid"
+            	android:text="0"
+            	android:layout_width="80px"
+            	android:layout_height="40px"
+            	android:gravity="center"
+            	android:textSize="15px"
+            	android:textStyle="bold"
+            	android:textColor="#FFFF00"
+            />
+	</LinearLayout>
+<!-- vs Person 実績タイトル -->
+	<LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="310px"
+            android:layout_height="40px"
+            android:layout_gravity="center">
+			<TextView android:id="@+id/textVsPerson"
+            	android:text="@string/label_vs_person"
+            	android:layout_width="120px" android:layout_height="40px"
+            	android:gravity="center"
+            	android:textSize="20px"
+            	android:textStyle="bold"
+            	android:textColor="#000000"
+            />
+	</LinearLayout>
+	<LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="320px"
+            android:layout_height="40px"
+            android:layout_gravity="center">
+            <TextView android:id="@+id/textTotal"
+            	android:text="@string/label_total"
+            	android:layout_width="80px" android:layout_height="40px"
+            	android:gravity="center"
+            	android:textSize="15px"
+            	android:textStyle="bold"
+            	android:textColor="#800000"
+            />
+             <TextView android:id="@+id/textWin"
+            	android:text="@string/label_win"
+            	android:layout_width="80px" android:layout_height="40px"
+            	android:gravity="center"
+            	android:textSize="15px"
+            	android:textStyle="bold"
+            	android:textColor="#FF0000"
+            />
+             <TextView android:id="@+id/textLose"
+            	android:text="@string/label_lose"
+            	android:layout_width="80px"
+            	android:layout_height="40px"
+            	android:gravity="center"
+            	android:textSize="15px"
+            	android:textStyle="bold"
+            	android:textColor="#0000FF"
+            />
+             <TextView android:id="@+id/textDraw"
+            	android:text="@string/label_draw"
+            	android:layout_width="80px"
+            	android:layout_height="40px"
+            	android:gravity="center"
+            	android:textSize="15px"
+            	android:textStyle="bold"
+            	android:textColor="#FFFF00"
+            />
+	</LinearLayout>
+<!-- vs Personの実績 -->
+		<LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="320px"
+            android:layout_height="40px"
+            android:layout_gravity="center">
+            <TextView android:id="@+id/textTotalPerson"
+            	android:text="0"
+            	android:layout_width="80px" android:layout_height="40px"
+            	android:gravity="center"
+            	android:textSize="15px"
+            	android:textStyle="bold"
+            	android:textColor="#800000"
+            />
+             <TextView android:id="@+id/textWinPerson"
+            	android:text="0"
+            	android:layout_width="80px" android:layout_height="40px"
+            	android:gravity="center"
+            	android:textSize="15px"
+            	android:textStyle="bold"
+            	android:textColor="#FF0000"
+            />
+             <TextView android:id="@+id/textLosePerson"
+            	android:text="0"
+            	android:layout_width="80px"
+            	android:layout_height="40px"
+            	android:gravity="center"
+            	android:textSize="15px"
+            	android:textStyle="bold"
+            	android:textColor="#0000FF"
+            />
+             <TextView android:id="@+id/textDrawPerson"
+            	android:text="0"
+            	android:layout_width="80px"
+            	android:layout_height="40px"
+            	android:gravity="center"
+            	android:textSize="15px"
+            	android:textStyle="bold"
+            	android:textColor="#FFFF00"
+            />
+	</LinearLayout>
+	<LinearLayout
+	            android:layout_width="320px"
+	            android:layout_height="150px">
+	</LinearLayout>
+	<LinearLayout
+            	android:orientation="horizontal"
+	            android:layout_width="320px"
+	            android:layout_height="40px"
+	            android:layout_gravity="center"
+	            android:paddingLeft="245px">
+				<Button
+	                android:id="@+id/buttonBack"
+	                android:text="@string/button_back"
+	                android:layout_width="70px"
+	                android:layout_height="40px"
+	                android:gravity="center"
+	            />
+			</LinearLayout>
+</LinearLayout>
